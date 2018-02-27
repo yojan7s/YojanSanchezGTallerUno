@@ -15,8 +15,8 @@
             android:layout_weight="0.7">
                 <ImageView
                     android:id="@+id/Im_Principal"
-                    android:layout_width="200dp"
-                    android:layout_height="200dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
                     android:background="@drawable/cover"/>
                 <RelativeLayout
                     android:layout_width="match_parent"
